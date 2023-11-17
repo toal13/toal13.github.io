@@ -33,6 +33,9 @@ function renderScene() {
     btn1.textContent = scene.button1.text;
     btn2.textContent = scene.button2.text;
 
+    /**
+   * Functionality to hide button in a scene.
+   */
     if (scene.hideButton2) {
       btn2.style.display = "none";
     } else {

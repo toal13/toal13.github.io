@@ -1,12 +1,12 @@
 # An interactive travel experience made with JavaScript
-Embark on an interactive text adventure game! After a long flight, you've arrived on a remote island.
+In this project we have to create an interactive experience with JavaScript.
+
+Embark on an interactive text adventure game! 
 Throughout your journey from the airport to the hotel, you'll progress the story by making choices. However, adventures are unpredictable.
 
 Game Features:
 Multiple Endings: The story changes based on your choices.
-Item Collection: Find and use specific items to advance your adventure.
 Background Images: Each scene features background images.
-
 
 How to Play:
 Progress the story through text and buttons.
