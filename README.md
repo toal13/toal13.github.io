@@ -8,10 +8,7 @@ Game Features:
 Multiple Endings: The story changes based on your choices.
 Background Images: Each scene features background images.
 
-How to Play:
-Progress the story through text and buttons.
-Choose wisely and experience different story depending on the choice you make.
-Are you ready? Let the adventure begin!
+
 
 
 Link to Demo:
